@@ -1,0 +1,9 @@
+24/02/21
+Files for UQO publications list, updates on website at https://github.com/phockett/UQO-group/blob/main/group_ongoing.bib
+
+Also:
+
+- Testing Zapier integration for GDrive - Github: https://zapier.com/shared/d4b1d27dfec82f9462644b8426734d13f2197705
+CURRENTLY NOT WORKING for tests, not sure why. Reports "The app returned "No commits between main and main".", might just be test setup?
+LEFT running for now.
+- Moved to UQOgroup account to allow open access to group members, for permission info see https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository.
