@@ -2,7 +2,7 @@
 
 Ultrafast Quantum Optics (UQO) group publications list - ongoing group curated version.
 
-The main .bib file is rendered via [BibBase](https://bibbase.org/) on [the group website](http://femtolab.ca/wordpress/?p=242).
+The main `group_ongoing.bib` file is rendered via [BibBase](https://bibbase.org/) on [the group website](http://femtolab.ca/wordpress/?p=242).
 
 ## To edit
 
@@ -12,4 +12,4 @@ A few options:
 2. Fork the repo to your own Github account, and make changes there - the web interface will also do this this if you are not signed in to the group account (you'll get a message that you can't edit directly).
 3. Pull to a local copy and edit this.
 
-In the latter cases, to update the main repo you'll either need to sign in as a group member, or send a pull request from your own Github account. To permanently allow editing from your own Github account, sign in as a group member then add your other account via Settings > Manage Access.
+In the latter cases, to update the main repo you'll either need to sign in as a group member, or send a pull request from your own Github account (this should, probably, auto-merge). To permanently allow editing from your own Github account, sign in as a group member then add your other account via Settings > Manage Access.
