@@ -27,8 +27,9 @@ In the latter cases, to update the main repo you'll either need to sign in as a 
 
 Scraped from Google Scholar pages via SerpAPI. This is updated weekly. Note there is less information here than in the full Bibtex files (due to API limitations), although all items link to a Google Scholar page for more details.
 
+- [Rendered output via Github pages](https://uqogroup.github.io/UQO-group-publications/UQO_group_GScholar.html) (this sometimes has issues, not sure why, download page to view locally if so).
 - Rendered output on the group website. (TODO)
-- Various formats in `/exports`
+- Various formats in `/exports` (TODO)
 - Source code in `/automation`
 
 SerpAPI details:
