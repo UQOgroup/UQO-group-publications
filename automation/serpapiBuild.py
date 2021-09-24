@@ -258,9 +258,10 @@ if __name__ == "__main__":
     # API_KEY = getAPIkey(apiFile)
     try:
         API_KEY = os.environ['API_KEY']
-        print(API_KEY)
+        print("Got API_KEY from env.")
     except:
         getAPIkey(apiFile)
+        print("Got API_KEY from file.")
 
 
     authors = setAuthors(authorsFile)
@@ -280,6 +281,7 @@ if __name__ == "__main__":
     # Process
     masterList, masterDF = genMasterList(authors)
 
+    print("Writing output files...")
     # Write files
     writeJSON(authors, recordsFile)
     writeHTML(masterDF, fileName = HTMLFile, fileTime = fileTime, authors = authors)
@@ -288,6 +290,8 @@ if __name__ == "__main__":
     currentRecords = 'UQO_group_GScholar'
     shutil.copy2(HTMLFile, Path(exportPath, currentRecords + '.html'))
     shutil.copy2(HTMLFile, Path(exportPath.parent, currentRecords + '.html'))
+
+    print(f"Updated {HTMLFile} and {Path(exportPath.parent, currentRecords + '.html')} OK.")
 
     # TODO: add Pandoc converters here.
     # For a basic wrapper, try  https://stackoverflow.com/a/14028439
