@@ -290,6 +290,7 @@ if __name__ == "__main__":
     currentRecords = 'UQO_group_GScholar'
     shutil.copy2(HTMLFile, Path(exportPath, currentRecords + '.html'))
     shutil.copy2(HTMLFile, Path(exportPath.parent, currentRecords + '.html'))
+    shutil.copy2(HTMLFile, Path(exportPath.parent, 'docs', currentRecords + '.html'))
 
     print(f"Updated {HTMLFile} and {Path(exportPath.parent, currentRecords + '.html')} OK.")
 
