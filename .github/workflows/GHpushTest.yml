@@ -1,6 +1,8 @@
 name: Test GH push
 # From https://github.com/ad-m/github-push-action
 
+on:
+  
 jobs:
   build:
     runs-on: ubuntu-latest
