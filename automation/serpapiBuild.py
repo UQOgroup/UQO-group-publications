@@ -26,6 +26,7 @@ SerpAPI details:
 #*** Imports
 import json
 import io
+import os
 import sys
 import shutil
 from pathlib import Path
@@ -223,8 +224,13 @@ Last updated: {fileTime}</p>
 #*************** Full build if called from CLI
 if __name__ == "__main__":
 
-    # Quick test settings - should pass.
-    test = True
+    # Quick test settings - should pass
+    # Now updated to source from ENV for GH actions
+    try:
+        test = os.environ['TEST']
+    except:
+        test = True
+
     testFile = 'records_2021-09-23.json'  # Set test file name, note full path appended below.
 
 
@@ -250,7 +256,13 @@ if __name__ == "__main__":
 
     # Setup
     # API_KEY = getAPIkey(apiFile)
-    getAPIkey(apiFile)
+    try:
+        API_KEY = os.environ['API_KEY']
+        print(API_KEY)
+    except:
+        getAPIkey(apiFile)
+
+
     authors = setAuthors(authorsFile)
 
     print("Getting Google Scholar records for...")
