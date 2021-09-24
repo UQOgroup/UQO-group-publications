@@ -1,11 +1,12 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+# Scrape & build HTML workflow.
+# Built from basic python action https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+# Plus GH commit code from https://github.com/ad-m/github-push-action
 
 name: Python application
 
 on:
-#   push:
-#     branches: [ main ]
+  push:
+    branches: [ main ]
 #   pull_request:
 #     branches: [ main ]
   schedule:
@@ -19,6 +20,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - name: Set up Python 3.9
       uses: actions/setup-python@v2
       with:
@@ -34,3 +37,14 @@ jobs:
         TEST: True
       run: |
         python automation/serpapiBuild.py
+    - name: Commit files
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        # git add .    # May be required if new files created.
+        git commit -m "Updated HTML." -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
