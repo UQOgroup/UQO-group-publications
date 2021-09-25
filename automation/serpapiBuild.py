@@ -96,6 +96,7 @@ def getAuthors(authors):
 
     for k,item in authors.items():
         if authors[k]['ID'] is not None:
+            print(f"Seaching for author: {k}, ID: {authors[k]['ID']}")
             search, results = authorSearch(authors[k]['ID'])
 
             authors[k]['search'] = search
@@ -229,7 +230,10 @@ if __name__ == "__main__":
     try:
         test = os.environ['TEST']
     except:
-        test = True
+        test = False
+
+    if test:
+        print("*** Test run - no API calls invoked.")
 
     testFile = 'records_2021-09-23.json'  # Set test file name, note full path appended below.
 
