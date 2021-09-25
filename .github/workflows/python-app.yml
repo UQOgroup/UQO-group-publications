@@ -35,7 +35,7 @@ jobs:
     - name: Build page
       env: # Or as an environment variable
         API_KEY: ${{ secrets.API_KEY }}
-        TEST: True
+        TEST: False
       run: |
         python automation/serpapiBuild.py
     - name: Commit files
