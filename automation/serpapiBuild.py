@@ -172,16 +172,22 @@ def writeHTML(masterDF, fileName = None, encoding = "utf-8", fileTime = None, au
 
 <h1>UQO Group publications (Google Scholar)</h1>
 <p class='intro'>
-Group publications, automated version scraped from Google Scholar using <a href="https://serpapi.com">SerpApi</a>. See <a href="https://github.com/UQOgroup/UQO-group-publications">github repo for details</a>.
+Group publications, automated version (weekly updates) scraped from Google Scholar using <a href="https://serpapi.com">SerpApi</a>.
+All items link to relevant Google Scholar pages/records for further details.
+See <a href="https://github.com/UQOgroup/UQO-group-publications">the github repo for more details</a>.
 </br>
-Last updated: {fileTime}</p>
+Last updated: {fileTime}
+</br>
+</br>
+An alternative curated, and interactive, <a href="http://femtolab.ca/wordpress/?p=242">publications list can be found on the group website.</a>
+</p>
 
 """
 
     # Manual formatting
     # List authors
     if authors is not None:
-        HTMLstr += "<h2>Author pages</h2><ul>"
+        HTMLstr += "<h2>Author pages</h2></br>Publications list is compiled from the following author profiles:<ul>"
         for k,item in authors.items():
             if item['ID'] is not None:
                 HTMLstr += f"<li class='author'><a href={item['URL']} <b>{k}</b></a></li>"
