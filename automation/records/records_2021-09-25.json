@@ -7,14 +7,14 @@
         "URL": "https://scholar.google.com/citations?user=IDU7HMMAAAAJ",
         "results": {
             "search_metadata": {
-                "id": "614cd60247ccf1684b3b88d6",
+                "id": "614e7fd1cace964bc7a45513",
                 "status": "Success",
-                "json_endpoint": "https://serpapi.com/searches/2f6801dd29a3212e/614cd60247ccf1684b3b88d6.json",
-                "created_at": "2021-09-23 19:31:14 UTC",
-                "processed_at": "2021-09-23 19:31:14 UTC",
+                "json_endpoint": "https://serpapi.com/searches/2f6801dd29a3212e/614e7fd1cace964bc7a45513.json",
+                "created_at": "2021-09-25 01:48:01 UTC",
+                "processed_at": "2021-09-25 01:48:01 UTC",
                 "google_scholar_author_url": "https://scholar.google.com/citations?user=IDU7HMMAAAAJ&hl=en&pagesize=100&sortby=pubdate",
-                "raw_html_file": "https://serpapi.com/searches/2f6801dd29a3212e/614cd60247ccf1684b3b88d6.html",
-                "total_time_taken": 5.16
+                "raw_html_file": "https://serpapi.com/searches/2f6801dd29a3212e/614e7fd1cace964bc7a45513.html",
+                "total_time_taken": 3.29
             },
             "search_parameters": {
                 "engine": "google_scholar_author",
@@ -1384,14 +1384,14 @@
         "URL": "https://scholar.google.com/citations?user=IzqvkioAAAAJ",
         "results": {
             "search_metadata": {
-                "id": "614cd6089d1586f63e60a003",
+                "id": "614e7fd50ead4110e48f8d6c",
                 "status": "Success",
-                "json_endpoint": "https://serpapi.com/searches/5b83dbbd8efd5e28/614cd6089d1586f63e60a003.json",
-                "created_at": "2021-09-23 19:31:20 UTC",
-                "processed_at": "2021-09-23 19:31:20 UTC",
+                "json_endpoint": "https://serpapi.com/searches/5b83dbbd8efd5e28/614e7fd50ead4110e48f8d6c.json",
+                "created_at": "2021-09-25 01:48:05 UTC",
+                "processed_at": "2021-09-25 01:48:05 UTC",
                 "google_scholar_author_url": "https://scholar.google.com/citations?user=IzqvkioAAAAJ&hl=en&pagesize=100&sortby=pubdate",
-                "raw_html_file": "https://serpapi.com/searches/5b83dbbd8efd5e28/614cd6089d1586f63e60a003.html",
-                "total_time_taken": 0.62
+                "raw_html_file": "https://serpapi.com/searches/5b83dbbd8efd5e28/614e7fd50ead4110e48f8d6c.html",
+                "total_time_taken": 0.66
             },
             "search_parameters": {
                 "engine": "google_scholar_author",
@@ -2290,19 +2290,949 @@
             }
         }
     },
+    "Khabat Heshami": {
+        "ID": "fBBMAKwAAAAJ",
+        "URL": "https://scholar.google.com/citations?user=fBBMAKwAAAAJ",
+        "results": {
+            "search_metadata": {
+                "id": "614e7fd6607393bde58919ed",
+                "status": "Success",
+                "json_endpoint": "https://serpapi.com/searches/dee2d88997f1dc69/614e7fd6607393bde58919ed.json",
+                "created_at": "2021-09-25 01:48:06 UTC",
+                "processed_at": "2021-09-25 01:48:06 UTC",
+                "google_scholar_author_url": "https://scholar.google.com/citations?user=fBBMAKwAAAAJ&hl=en&pagesize=100&sortby=pubdate",
+                "raw_html_file": "https://serpapi.com/searches/dee2d88997f1dc69/614e7fd6607393bde58919ed.html",
+                "total_time_taken": 0.55
+            },
+            "search_parameters": {
+                "engine": "google_scholar_author",
+                "author_id": "fBBMAKwAAAAJ",
+                "hl": "en",
+                "num": "100",
+                "sort": "pubdate"
+            },
+            "author": {
+                "name": "Khabat Heshami",
+                "affiliations": "National Research Council of Canada, and University of Ottawa",
+                "email": "Verified email at nrc.gc.ca",
+                "website": "https://chemphys.ca/khabat-heshami/",
+                "interests": [
+                    {
+                        "title": "Photonic Quantum Information Processing",
+                        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:photonic_quantum_information_processing",
+                        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aphotonic_quantum_information_processing"
+                    },
+                    {
+                        "title": "Quantum light-matter interfaces",
+                        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:quantum_light_matter_interfaces",
+                        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquantum_light_matter_interfaces"
+                    },
+                    {
+                        "title": "Quantum Communications",
+                        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:quantum_communications",
+                        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquantum_communications"
+                    },
+                    {
+                        "title": "Quantum nonlinear optics",
+                        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:quantum_nonlinear_optics",
+                        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquantum_nonlinear_optics"
+                    }
+                ],
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fBBMAKwAAAAJ&citpid=3"
+            },
+            "articles": [
+                {
+                    "title": "Breaking the limits of purification: Indefinite causal order enhances heat-bath algorithmic cooling",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:PVjk1bu6vJQC",
+                    "citation_id": "fBBMAKwAAAAJ:PVjk1bu6vJQC",
+                    "authors": "AZ Goldberg, K Heshami",
+                    "publication": "arXiv preprint arXiv:2108.08853, 2021",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2021"
+                },
+                {
+                    "title": "Tera-mode of Spatiotemporal N00N States",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:hCrLmN-GePgC",
+                    "citation_id": "fBBMAKwAAAAJ:hCrLmN-GePgC",
+                    "authors": "X Gao, Y Zhang, A D'Errico, K Heshami, E Karimi",
+                    "publication": "arXiv preprint arXiv:2107.02740, 2021",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2021"
+                },
+                {
+                    "title": "Simulation of many-body dynamics using Rydberg excitons",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:5qfkUJPXOUwC",
+                    "citation_id": "fBBMAKwAAAAJ:5qfkUJPXOUwC",
+                    "authors": "J Taylor, S Goswami, V Walther, M Spanner, C Simon, K Heshami",
+                    "publication": "arXiv preprint arXiv:2107.02273, 2021",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2021"
+                },
+                {
+                    "title": "Quantum communication with ultrafast time-bin qubits",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:ClCfbGk0d_YC",
+                    "citation_id": "fBBMAKwAAAAJ:ClCfbGk0d_YC",
+                    "authors": "F Bouchard, D England, PJ Bustard, K Heshami, B Sussman",
+                    "publication": "arXiv preprint arXiv:2106.09833, 2021",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2021"
+                },
+                {
+                    "title": "Squeezed states both maximize and minimize the same notion of quantumness",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:FPJr55Dyh1AC",
+                    "citation_id": "fBBMAKwAAAAJ:FPJr55Dyh1AC",
+                    "authors": "AZ Goldberg, K Heshami",
+                    "publication": "arXiv preprint arXiv:2106.03862, 2021",
+                    "cited_by": {
+                        "value": 1,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1389209932181808581",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=1389209932181808581&engine=google_scholar&hl=en",
+                        "cites_id": "1389209932181808581"
+                    },
+                    "year": "2021"
+                },
+                {
+                    "title": "Achieving ultimate noise tolerance in quantum communication",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:Ug5p-4gJ2f0C",
+                    "citation_id": "fBBMAKwAAAAJ:Ug5p-4gJ2f0C",
+                    "authors": "F Bouchard, D England, PJ Bustard, KL Fenwick, E Karimi, K Heshami, ...",
+                    "publication": "Physical Review Applied 15 (2), 024027, 2021",
+                    "cited_by": {
+                        "value": 4,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8431638113437585527",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=8431638113437585527&engine=google_scholar&hl=en",
+                        "cites_id": "8431638113437585527"
+                    },
+                    "year": "2021"
+                },
+                {
+                    "title": "Investigation of underwater quantum channels in a 30 meter flume tank using structured photons",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:XoXfffV-tXoC",
+                    "citation_id": "fBBMAKwAAAAJ:XoXfffV-tXoC",
+                    "authors": "F Hufnagel, A Sit, F Bouchard, Y Zhang, D England, K Heshami, ...",
+                    "publication": "New Journal of Physics 22 (9), 093074, 2020",
+                    "cited_by": {
+                        "value": 11,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13256702750396853151,9864840319703796687",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=13256702750396853151%2C9864840319703796687&engine=google_scholar&hl=en",
+                        "cites_id": "13256702750396853151,9864840319703796687"
+                    },
+                    "year": "2020"
+                },
+                {
+                    "title": "Atomic Quantum Memory in the Autler-Townes Regime",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:ruyezt5ZtCIC",
+                    "citation_id": "fBBMAKwAAAAJ:ruyezt5ZtCIC",
+                    "authors": "E Saglamyurek, A Rastogi, T Hrushevskyi, BD Smith, LW Cooke, ...",
+                    "publication": "CLEO: QELS_Fundamental Science, FTh3D. 1, 2020",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2020"
+                },
+                {
+                    "title": "Generation of doubly excited Rydberg states based on Rydberg antiblockade in a cold atomic ensemble",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:HbR8gkJAVGIC",
+                    "citation_id": "fBBMAKwAAAAJ:HbR8gkJAVGIC",
+                    "authors": "J Taylor, J Sinclair, K Bonsma-Fisher, D England, M Spanner, K Heshami",
+                    "publication": "arXiv preprint arXiv:1912.05675, 2019",
+                    "cited_by": {
+                        "value": 1,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12727733488248001327",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=12727733488248001327&engine=google_scholar&hl=en",
+                        "cites_id": "12727733488248001327"
+                    },
+                    "year": "2019"
+                },
+                {
+                    "title": "Characterization of an underwater channel for quantum communications in the Ottawa River",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:SpbeaW3--B0C",
+                    "citation_id": "fBBMAKwAAAAJ:SpbeaW3--B0C",
+                    "authors": "F Hufnagel, A Sit, F Grenapin, F Bouchard, K Heshami, D England, ...",
+                    "publication": "Optics express 27 (19), 26346-26354, 2019",
+                    "cited_by": {
+                        "value": 22,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11705248193408285445",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=11705248193408285445&engine=google_scholar&hl=en",
+                        "cites_id": "11705248193408285445"
+                    },
+                    "year": "2019"
+                },
+                {
+                    "title": "Quantum process tomography of a high-dimensional quantum communication channel",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:i2xiXl-TujoC",
+                    "citation_id": "fBBMAKwAAAAJ:i2xiXl-TujoC",
+                    "authors": "F Bouchard, F Hufnagel, D Koutn\u00fd, A Abbas, A Sit, K Heshami, R Fickler, ...",
+                    "publication": "Quantum 3, 138, 2019",
+                    "cited_by": {
+                        "value": 8,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12888774283714481927,16160554608900342103",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=12888774283714481927%2C16160554608900342103&engine=google_scholar&hl=en",
+                        "cites_id": "12888774283714481927,16160554608900342103"
+                    },
+                    "year": "2019"
+                },
+                {
+                    "title": "High-Dimensional Quantum Cryptography using Twisted Photons; from the Laboratory to realistic conditions",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:e_rmSamDkqQC",
+                    "citation_id": "fBBMAKwAAAAJ:e_rmSamDkqQC",
+                    "authors": "F Bouchard, A Sit, F Hufnagel, R Fickler, K Heshami, RW Boyd, E Karimi",
+                    "publication": "Quantum Information and Measurement, S2A. 3, 2019",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2019"
+                },
+                {
+                    "title": "Experimental investigation of high-dimensional quantum key distribution protocols with twisted photons",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:-FonjvnnhkoC",
+                    "citation_id": "fBBMAKwAAAAJ:-FonjvnnhkoC",
+                    "authors": "F Bouchard, K Heshami, D England, R Fickler, RW Boyd, BG Englert, ...",
+                    "publication": "Quantum 2, 111, 2018",
+                    "cited_by": {
+                        "value": 49,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1010010027129911012,15484911977219490826",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=1010010027129911012%2C15484911977219490826&engine=google_scholar&hl=en",
+                        "cites_id": "1010010027129911012,15484911977219490826"
+                    },
+                    "year": "2018"
+                },
+                {
+                    "title": "Coherent storage and manipulation of broadband photons via dynamically controlled Autler\u2013Townes splitting",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:g3aElNc5_aQC",
+                    "citation_id": "fBBMAKwAAAAJ:g3aElNc5_aQC",
+                    "authors": "E Saglamyurek, T Hrushevskyi, A Rastogi, K Heshami, LJ LeBlanc",
+                    "publication": "Nature Photonics 12, 774--782, 2018",
+                    "cited_by": {
+                        "value": 49,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10064689952640424772",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=10064689952640424772&engine=google_scholar&hl=en",
+                        "cites_id": "10064689952640424772"
+                    },
+                    "year": "2018"
+                },
+                {
+                    "title": "Theory of cavity-enhanced nondestructive detection of photonic qubits in a solid-state atomic ensemble",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:LI9QrySNdTsC",
+                    "citation_id": "fBBMAKwAAAAJ:LI9QrySNdTsC",
+                    "authors": "S Goswami, K Heshami, C Simon",
+                    "publication": "Physical Review A 98 (4), 043842, 2018",
+                    "cited_by": {
+                        "value": 2,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1632983508889225004",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=1632983508889225004&engine=google_scholar&hl=en",
+                        "cites_id": "1632983508889225004"
+                    },
+                    "year": "2018"
+                },
+                {
+                    "title": "Experimental quantum cryptography in laboratory, long-distance and underwater conditions using structured light (Conference Presentation)",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:oNZyr7d5Mn4C",
+                    "citation_id": "fBBMAKwAAAAJ:oNZyr7d5Mn4C",
+                    "authors": "R Fickler, F Bouchard, A Sit, F Hufnagel, K Heshami, RW Boyd, E Karimi",
+                    "publication": "Quantum Information Science and Technology IV 10803, 108030T, 2018",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2018"
+                },
+                {
+                    "title": "Quantum cryptography with twisted photons through an outdoor underwater channel",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:kz9GbA2Ns4gC",
+                    "citation_id": "fBBMAKwAAAAJ:kz9GbA2Ns4gC",
+                    "authors": "F Bouchard, A Sit, F Hufnagel, A Abbas, Y Zhang, K Heshami, R Fickler, ...",
+                    "publication": "Optics express 26 (17), 22563-22573, 2018",
+                    "cited_by": {
+                        "value": 65,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15819311626774105838,3800290792238057952",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=15819311626774105838%2C3800290792238057952&engine=google_scholar&hl=en",
+                        "cites_id": "15819311626774105838,3800290792238057952"
+                    },
+                    "year": "2018"
+                },
+                {
+                    "title": "Round-Robin Differential Phase-Shift Quantum Key Distribution with Twisted Photons",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:b1wdh0AR-JQC",
+                    "citation_id": "fBBMAKwAAAAJ:b1wdh0AR-JQC",
+                    "authors": "F Bouchard, A Sit, K Heshami, R Fickler, E Karimi",
+                    "publication": "Physical Review A 98 (1), 010301, 2018",
+                    "cited_by": {
+                        "value": 19,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3745816744517316206",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=3745816744517316206&engine=google_scholar&hl=en",
+                        "cites_id": "3745816744517316206"
+                    },
+                    "year": "2018"
+                },
+                {
+                    "title": "Time-bin to Polarization Conversion of Ultrafast Photonic Qubits",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:L7CI7m0gUJcC",
+                    "citation_id": "fBBMAKwAAAAJ:L7CI7m0gUJcC",
+                    "authors": "C Kupchak, PJ Bustard, K Heshami, J Erskine, M Spanner, DG England, ...",
+                    "publication": "Physical Review A 96 (5), 053812, 2017",
+                    "cited_by": {
+                        "value": 17,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9619535897804629280",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=9619535897804629280&engine=google_scholar&hl=en",
+                        "cites_id": "9619535897804629280"
+                    },
+                    "year": "2017"
+                },
+                {
+                    "title": "Entanglement between more than two hundred macroscopic atomic ensembles in a solid",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:KUbvn5osdkgC",
+                    "citation_id": "fBBMAKwAAAAJ:KUbvn5osdkgC",
+                    "authors": "P Zarkeshian, C Deshmukh, N Sinclair, SK Goyal, GH Aguilar, P Lefebvre, ...",
+                    "publication": "Nature Communications 8, 906, 2017",
+                    "cited_by": {
+                        "value": 24,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17814432568592344910",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=17814432568592344910&engine=google_scholar&hl=en",
+                        "cites_id": "17814432568592344910"
+                    },
+                    "year": "2017"
+                },
+                {
+                    "title": "Single-photon source based on Rydberg exciton blockade",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:hMsQuOkrut0C",
+                    "citation_id": "fBBMAKwAAAAJ:hMsQuOkrut0C",
+                    "authors": "M Khazali, K Heshami, C Simon",
+                    "publication": "Journal of Physics B: Atomic, Molecular and Optical Physics 50 (21), 215301, 2017",
+                    "cited_by": {
+                        "value": 31,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3499525971181271591",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=3499525971181271591&engine=google_scholar&hl=en",
+                        "cites_id": "3499525971181271591"
+                    },
+                    "year": "2017"
+                },
+                {
+                    "title": "High-dimensional intracity quantum cryptography with structured photons",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:vbGhcppDl1QC",
+                    "citation_id": "fBBMAKwAAAAJ:vbGhcppDl1QC",
+                    "authors": "A Sit, F Bouchard, R Fickler, J Gagnon-Bischoff, H Larocque, K Heshami, ...",
+                    "publication": "Optica 4 (9), 1006-1010, 2017",
+                    "cited_by": {
+                        "value": 244,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11424515333701786246",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=11424515333701786246&engine=google_scholar&hl=en",
+                        "cites_id": "11424515333701786246"
+                    },
+                    "year": "2017"
+                },
+                {
+                    "title": "Storage of polarization-entangled THz-bandwidth photons in a diamond quantum memory",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:p__nRnzSRKYC",
+                    "citation_id": "fBBMAKwAAAAJ:p__nRnzSRKYC",
+                    "authors": "KAG Fisher, DG England, JPW MacLean, PJ Bustard, K Heshami, ...",
+                    "publication": "Physical Review A 96 (1), 012324, 2017",
+                    "cited_by": {
+                        "value": 16,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7749918262907822259",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=7749918262907822259&engine=google_scholar&hl=en",
+                        "cites_id": "7749918262907822259"
+                    },
+                    "year": "2017"
+                },
+                {
+                    "title": "Quantum frequency conversion with ultra-broadband tuning in a Raman memory",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:ML0RJ9NH7IQC",
+                    "citation_id": "fBBMAKwAAAAJ:ML0RJ9NH7IQC",
+                    "authors": "PJ Bustard, DG England, K Heshami, C Kupchak, BJ Sussman",
+                    "publication": "Physical Review A 95 (5), 053816, 2017",
+                    "cited_by": {
+                        "value": 13,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7377045933806892683",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=7377045933806892683&engine=google_scholar&hl=en",
+                        "cites_id": "7377045933806892683"
+                    },
+                    "year": "2017"
+                },
+                {
+                    "title": "What are Archives?",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:edDO8Oi4QzsC",
+                    "citation_id": "fBBMAKwAAAAJ:edDO8Oi4QzsC",
+                    "authors": "RE Bryan",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2017"
+                },
+                {
+                    "title": "Proposal and proof-of-principle demonstration of non-destructive detection of photonic qubits using a Tm: LiNbO 3 waveguide",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:URolC5Kub84C",
+                    "citation_id": "fBBMAKwAAAAJ:URolC5Kub84C",
+                    "authors": "N Sinclair, K Heshami, C Deshmukh, D Oblak, C Simon, W Tittel",
+                    "publication": "Nature communications 7 (1), 1-6, 2016",
+                    "cited_by": {
+                        "value": 23,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13540966550843981105,17139620898180558554",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=13540966550843981105%2C17139620898180558554&engine=google_scholar&hl=en",
+                        "cites_id": "13540966550843981105,17139620898180558554"
+                    },
+                    "year": "2016"
+                },
+                {
+                    "title": "Quantum memories: emerging applications and recent advances",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:uc_IGeMz5qoC",
+                    "citation_id": "fBBMAKwAAAAJ:uc_IGeMz5qoC",
+                    "authors": "K Heshami, DG England, PC Humphreys, PJ Bustard, VM Acosta, J Nunn, ...",
+                    "publication": "Journal of modern optics 63 (20), 2005-2028, 2016",
+                    "cited_by": {
+                        "value": 273,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16184537687859555293",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=16184537687859555293&engine=google_scholar&hl=en",
+                        "cites_id": "16184537687859555293"
+                    },
+                    "year": "2016"
+                },
+                {
+                    "title": "Optical quantum memory for ultrafast photons using molecular alignment",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:0KyAp5RtaNEC",
+                    "citation_id": "fBBMAKwAAAAJ:0KyAp5RtaNEC",
+                    "authors": "GS Thekkadath, K Heshami, DG England, PJ Bustard, BJ Sussman, ...",
+                    "publication": "Journal of Modern Optics 63 (20), 2093-2100, 2016",
+                    "cited_by": {
+                        "value": 2,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3470335830280655928",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=3470335830280655928&engine=google_scholar&hl=en",
+                        "cites_id": "3470335830280655928"
+                    },
+                    "year": "2016"
+                },
+                {
+                    "title": "Reducing noise in a Raman quantum memory",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:uWiczbcajpAC",
+                    "citation_id": "fBBMAKwAAAAJ:uWiczbcajpAC",
+                    "authors": "PJ Bustard, DG England, K Heshami, C Kupchak, BJ Sussman",
+                    "publication": "Optics letters 41 (21), 5055-5058, 2016",
+                    "cited_by": {
+                        "value": 15,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=959919908191979028",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=959919908191979028&engine=google_scholar&hl=en",
+                        "cites_id": "959919908191979028"
+                    },
+                    "year": "2016"
+                },
+                {
+                    "title": "Efficiency of an enhanced linear optical Bell-state measurement scheme with realistic imperfections",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:9Nmd_mFXekcC",
+                    "citation_id": "fBBMAKwAAAAJ:9Nmd_mFXekcC",
+                    "authors": "S Wein, K Heshami, CA Fuchs, H Krovi, Z Dutton, W Tittel, C Simon",
+                    "publication": "Physical Review A 94 (3), 032332, 2016",
+                    "cited_by": {
+                        "value": 13,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13685017728983645534",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=13685017728983645534&engine=google_scholar&hl=en",
+                        "cites_id": "13685017728983645534"
+                    },
+                    "year": "2016"
+                },
+                {
+                    "title": "Phonon-mediated nonclassical interference in diamond",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:zLWjf1WUPmwC",
+                    "citation_id": "fBBMAKwAAAAJ:zLWjf1WUPmwC",
+                    "authors": "DG England, KAG Fisher, JPW MacLean, PJ Bustard, K Heshami, ...",
+                    "publication": "Physical review letters 117 (7), 073603, 2016",
+                    "cited_by": {
+                        "value": 14,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1615481377653092026,2296941185836424157",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=1615481377653092026%2C2296941185836424157&engine=google_scholar&hl=en",
+                        "cites_id": "1615481377653092026,2296941185836424157"
+                    },
+                    "year": "2016"
+                },
+                {
+                    "title": "Raman-induced slow-light delay of THz-bandwidth pulses",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:ipzZ9siozwsC",
+                    "citation_id": "fBBMAKwAAAAJ:ipzZ9siozwsC",
+                    "authors": "PJ Bustard, K Heshami, DG England, M Spanner, BJ Sussman",
+                    "publication": "Physical Review A 93 (4), 043810, 2016",
+                    "cited_by": {
+                        "value": 6,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4462715376793665068",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=4462715376793665068&engine=google_scholar&hl=en",
+                        "cites_id": "4462715376793665068"
+                    },
+                    "year": "2016"
+                },
+                {
+                    "title": "Entanglement over global distances via quantum repeaters with satellite links",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:z_wVstp3MssC",
+                    "citation_id": "fBBMAKwAAAAJ:z_wVstp3MssC",
+                    "authors": "K Boone, JP Bourgoin, E Meyer-Scott, K Heshami, T Jennewein, C Simon",
+                    "publication": "Physical Review A 91 (5), 052325, 2015",
+                    "cited_by": {
+                        "value": 65,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8954532919325564308",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=8954532919325564308&engine=google_scholar&hl=en",
+                        "cites_id": "8954532919325564308"
+                    },
+                    "year": "2015"
+                },
+                {
+                    "title": "Photon-photon gate via the interaction between two collective Rydberg excitations",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:uJ-U7cs_P_0C",
+                    "citation_id": "fBBMAKwAAAAJ:uJ-U7cs_P_0C",
+                    "authors": "M Khazali, K Heshami, C Simon",
+                    "publication": "Physical Review A 91 (3), 030301(R), 2015",
+                    "cited_by": {
+                        "value": 48,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15438006189519835480,7412516111504110350",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=15438006189519835480%2C7412516111504110350&engine=google_scholar&hl=en",
+                        "cites_id": "15438006189519835480,7412516111504110350"
+                    },
+                    "year": "2015"
+                },
+                {
+                    "title": "Long range quantum key distribution using frequency multiplexing in broadband solid state memories",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:fEOibwPWpKIC",
+                    "citation_id": "fBBMAKwAAAAJ:fEOibwPWpKIC",
+                    "authors": "H Krovi, Z Dutton, S Guha, C Fuchs, W Tittel, C Simon, JA Slater, ...",
+                    "publication": "2014 Conference on Lasers and Electro-Optics (CLEO)-Laser Science to \u2026, 2014",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2014"
+                },
+                {
+                    "title": "An integrated processor for photonic quantum states using a broadband light\u2013matter interface",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:VLnqNzywnoUC",
+                    "citation_id": "fBBMAKwAAAAJ:VLnqNzywnoUC",
+                    "authors": "E Saglamyurek, JA Sinclair, Neil, Slater, K Heshami, D Oblak, W Tittel",
+                    "publication": "New Journal of Physics 16 (6), 065019, 2014",
+                    "cited_by": {
+                        "value": 61,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7082490073274729893",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=7082490073274729893&engine=google_scholar&hl=en",
+                        "cites_id": "7082490073274729893"
+                    },
+                    "year": "2014"
+                },
+                {
+                    "title": "Raman quantum memory based on an ensemble of nitrogen-vacancy centers coupled to a microcavity",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:evX43VCCuoAC",
+                    "citation_id": "fBBMAKwAAAAJ:evX43VCCuoAC",
+                    "authors": "K Heshami, C Santori, B Khanaliloo, C Healey, VM Acosta, PE Barclay, ...",
+                    "publication": "Physical Review A 89 (4), 040301, 2014",
+                    "cited_by": {
+                        "value": 31,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4941293669646455931",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=4941293669646455931&engine=google_scholar&hl=en",
+                        "cites_id": "4941293669646455931"
+                    },
+                    "year": "2014"
+                },
+                {
+                    "title": "Quantum storage and retrieval of light by sweeping the atomic frequency",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:35r97b3x0nAC",
+                    "citation_id": "fBBMAKwAAAAJ:35r97b3x0nAC",
+                    "authors": "H Kaviani, M Khazali, R Ghobadi, E Zahedinejad, K Heshami, C Simon",
+                    "publication": "New Journal of Physics 15, 085029, 2013",
+                    "cited_by": {
+                        "value": 4,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4019475785312160262",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=4019475785312160262&engine=google_scholar&hl=en",
+                        "cites_id": "4019475785312160262"
+                    },
+                    "year": "2013"
+                },
+                {
+                    "title": "Toward Practical Solid-State Based Quantum Memories",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:Y0pCki6q_DkC",
+                    "citation_id": "fBBMAKwAAAAJ:Y0pCki6q_DkC",
+                    "authors": "K Heshami",
+                    "publication": "Graduate Studies, 2013",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2013"
+                },
+                {
+                    "title": "Photonic quantum memory in two-level ensembles based on modulating the refractive index in time: Equivalence to gradient echo memory",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:IjCSPb-OGe4C",
+                    "citation_id": "fBBMAKwAAAAJ:IjCSPb-OGe4C",
+                    "authors": "J Clark, K Heshami, C Simon",
+                    "publication": "Physical Review A 86 (1), 013833, 2012",
+                    "cited_by": {
+                        "value": 20,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17647447479350347581",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=17647447479350347581&engine=google_scholar&hl=en",
+                        "cites_id": "17647447479350347581"
+                    },
+                    "year": "2012"
+                },
+                {
+                    "title": "Controllable-dipole quantum memory",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:zYLM7Y9cAGgC",
+                    "citation_id": "fBBMAKwAAAAJ:zYLM7Y9cAGgC",
+                    "authors": "K Heshami, A Green, Y Han, A Rispe, E Saglamyurek, N Sinclair, W Tittel, ...",
+                    "publication": "Physical Review A 86 (1), 013813, 2012",
+                    "cited_by": {
+                        "value": 17,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3562836357184013935,2503133860844634920,7587769943042913257",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=3562836357184013935%2C2503133860844634920%2C7587769943042913257&engine=google_scholar&hl=en",
+                        "cites_id": "3562836357184013935,2503133860844634920,7587769943042913257"
+                    },
+                    "year": "2012"
+                },
+                {
+                    "title": "Precision requirements for spin-echo-based quantum memories",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:d1gkVwhDpl0C",
+                    "citation_id": "fBBMAKwAAAAJ:d1gkVwhDpl0C",
+                    "authors": "K Heshami, N Sangouard, J Min\u00e1r, H de Riedmatten, C Simon",
+                    "publication": "Physical Review A 83 (3), 032315, 2011",
+                    "cited_by": {
+                        "value": 15,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3665042158733425958",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=3665042158733425958&engine=google_scholar&hl=en",
+                        "cites_id": "3665042158733425958"
+                    },
+                    "year": "2011"
+                },
+                {
+                    "title": "Quantum repeaters based on Rydberg-blockade-coupled atomic ensembles",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:u5HHmVD_uO8C",
+                    "citation_id": "fBBMAKwAAAAJ:u5HHmVD_uO8C",
+                    "authors": "Y Han, B He, K Heshami, CZ Li, C Simon",
+                    "publication": "Physical Review A 81 (5), 052311, 2010",
+                    "cited_by": {
+                        "value": 99,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8358791573032598713",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=8358791573032598713&engine=google_scholar&hl=en",
+                        "cites_id": "8358791573032598713"
+                    },
+                    "year": "2010"
+                },
+                {
+                    "title": "Matrix Product States and Quantum Phase Transitions",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:foquWX3nUaYC",
+                    "citation_id": "fBBMAKwAAAAJ:foquWX3nUaYC",
+                    "authors": "K Heshami, S Raeisi",
+                    "publication": "arXiv preprint arXiv:0909.2928, 2009",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": "2009"
+                },
+                {
+                    "title": "Non-Hermitian interaction of matter and light",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:UeHWp8X0CEIC",
+                    "citation_id": "fBBMAKwAAAAJ:UeHWp8X0CEIC",
+                    "authors": "K Saaidi, E Karimi, K Heshami, P Seifpanahi",
+                    "publication": "Physica Scripta 77, 065002, 2008",
+                    "cited_by": {
+                        "value": 5,
+                        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16100291974837083588",
+                        "serpapi_link": "https://serpapi.com/search.json?cites=16100291974837083588&engine=google_scholar&hl=en",
+                        "cites_id": "16100291974837083588"
+                    },
+                    "year": "2008"
+                },
+                {
+                    "title": "High-dimensional intracity quantum cryptography with structured photons: supplementary material",
+                    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fBBMAKwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=fBBMAKwAAAAJ:tYavs44e6CUC",
+                    "citation_id": "fBBMAKwAAAAJ:tYavs44e6CUC",
+                    "authors": "A Sit, F ederic Bouchard, R Fickler, J eremie Gagnon-Bischoff, ...",
+                    "cited_by": {
+                        "value": null,
+                        "link": "https://scholar.google.com"
+                    },
+                    "year": ""
+                }
+            ],
+            "cited_by": {
+                "table": [
+                    {
+                        "citations": {
+                            "all": 1287,
+                            "since_2016": 1178
+                        }
+                    },
+                    {
+                        "h_index": {
+                            "all": 17,
+                            "since_2016": 16
+                        }
+                    },
+                    {
+                        "i10_index": {
+                            "all": 25,
+                            "since_2016": 23
+                        }
+                    }
+                ],
+                "graph": [
+                    {
+                        "year": 2011,
+                        "citations": 7
+                    },
+                    {
+                        "year": 2012,
+                        "citations": 14
+                    },
+                    {
+                        "year": 2013,
+                        "citations": 23
+                    },
+                    {
+                        "year": 2014,
+                        "citations": 23
+                    },
+                    {
+                        "year": 2015,
+                        "citations": 33
+                    },
+                    {
+                        "year": 2016,
+                        "citations": 85
+                    },
+                    {
+                        "year": 2017,
+                        "citations": 115
+                    },
+                    {
+                        "year": 2018,
+                        "citations": 200
+                    },
+                    {
+                        "year": 2019,
+                        "citations": 247
+                    },
+                    {
+                        "year": 2020,
+                        "citations": 282
+                    },
+                    {
+                        "year": 2021,
+                        "citations": 248
+                    }
+                ]
+            },
+            "public_access": {
+                "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=fBBMAKwAAAAJ",
+                "available": 17,
+                "not_available": 2
+            },
+            "co_authors": [
+                {
+                    "name": "Christoph Simon",
+                    "link": "https://scholar.google.com/citations?user=dwy-fSIAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=dwy-fSIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "dwy-fSIAAAAJ",
+                    "affiliations": "Institute for Quantum Science & Technology and Hotchkiss Brain Institute, University of Calgary",
+                    "email": "Verified email at ucalgary.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dwy-fSIAAAAJ&citpid=2"
+                },
+                {
+                    "name": "Ebrahim Karimi",
+                    "link": "https://scholar.google.com/citations?user=C_PgFBsAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=C_PgFBsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "C_PgFBsAAAAJ",
+                    "affiliations": "Canada Research Chair - University of Ottawa",
+                    "email": "Verified email at sqogroup.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C_PgFBsAAAAJ&citpid=14"
+                },
+                {
+                    "name": "Duncan England",
+                    "link": "https://scholar.google.com/citations?user=IzqvkioAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=IzqvkioAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "IzqvkioAAAAJ",
+                    "affiliations": "National Research Council",
+                    "email": "Verified email at nrc.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IzqvkioAAAAJ&citpid=3"
+                },
+                {
+                    "name": "Fr\u00e9d\u00e9ric Bouchard",
+                    "link": "https://scholar.google.com/citations?user=SREZ2OcAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=SREZ2OcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "SREZ2OcAAAAJ",
+                    "affiliations": "National Research Council of Canada",
+                    "email": "Verified email at nrc-cnrc.gc.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SREZ2OcAAAAJ&citpid=6"
+                },
+                {
+                    "name": "Ben Sussman",
+                    "link": "https://scholar.google.com/citations?user=IDU7HMMAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=IDU7HMMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "IDU7HMMAAAAJ",
+                    "affiliations": "National Research Council and University of Ottawa",
+                    "email": "Verified email at nrc.ca",
+                    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+                },
+                {
+                    "name": "Alicia Sit",
+                    "link": "https://scholar.google.com/citations?user=457qIKcAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=457qIKcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "457qIKcAAAAJ",
+                    "affiliations": "University of Ottawa",
+                    "email": "Verified email at uottawa.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=457qIKcAAAAJ&citpid=2"
+                },
+                {
+                    "name": "Robert Fickler",
+                    "link": "https://scholar.google.com/citations?user=WQqrplgAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=WQqrplgAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "WQqrplgAAAAJ",
+                    "affiliations": "Associate Professor, Tampere University",
+                    "email": "Verified email at tuni.fi",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WQqrplgAAAAJ&citpid=1"
+                },
+                {
+                    "name": "Robert Boyd",
+                    "link": "https://scholar.google.com/citations?user=vJMu-20AAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=vJMu-20AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "vJMu-20AAAAJ",
+                    "affiliations": "University of Ottawa and University of Rochester",
+                    "email": "Verified email at optics.rochester.edu",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vJMu-20AAAAJ&citpid=3"
+                },
+                {
+                    "name": "Wolfgang Tittel",
+                    "link": "https://scholar.google.com/citations?user=gMESdFEAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=gMESdFEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "gMESdFEAAAAJ",
+                    "affiliations": "Delft Technical University",
+                    "email": "Verified email at tudelft.nl",
+                    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+                },
+                {
+                    "name": "Gerd Leuchs",
+                    "link": "https://scholar.google.com/citations?user=1jBuXm8AAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=1jBuXm8AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "1jBuXm8AAAAJ",
+                    "affiliations": "Max Planck Institute for the Science of Light",
+                    "email": "Verified email at mpl.mpg.de",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1jBuXm8AAAAJ&citpid=2"
+                },
+                {
+                    "name": "Felix Hufnagel",
+                    "link": "https://scholar.google.com/citations?user=wIr9FLQAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=wIr9FLQAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "wIr9FLQAAAAJ",
+                    "affiliations": "University of Ottawa",
+                    "email": "Verified email at uottawa.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wIr9FLQAAAAJ&citpid=1"
+                },
+                {
+                    "name": "Neil Sinclair",
+                    "link": "https://scholar.google.com/citations?user=XBX4xxEAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=XBX4xxEAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "XBX4xxEAAAAJ",
+                    "affiliations": "Harvard/Caltech",
+                    "email": "Verified email at seas.harvard.edu",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XBX4xxEAAAAJ&citpid=11"
+                },
+                {
+                    "name": "Yingwen Zhang",
+                    "link": "https://scholar.google.com/citations?user=nphX0CsAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=nphX0CsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "nphX0CsAAAAJ",
+                    "affiliations": "National Research Council",
+                    "email": "Verified email at nrc-cnrc.gc.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nphX0CsAAAAJ&citpid=2"
+                },
+                {
+                    "name": "Erhan Saglamyurek",
+                    "link": "https://scholar.google.com/citations?user=bVur9qIAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=bVur9qIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "bVur9qIAAAAJ",
+                    "affiliations": "University of Alberta",
+                    "email": "Verified email at ualberta.ca",
+                    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+                },
+                {
+                    "name": "Victor Acosta",
+                    "link": "https://scholar.google.com/citations?user=R_oT8iIAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=R_oT8iIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "R_oT8iIAAAAJ",
+                    "affiliations": "Associate Professor of Physics, University of New Mexico",
+                    "email": "Verified email at unm.edu",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=R_oT8iIAAAAJ&citpid=2"
+                },
+                {
+                    "name": "Daniel Oblak",
+                    "link": "https://scholar.google.com/citations?user=sUKbEwsAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=sUKbEwsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "sUKbEwsAAAAJ",
+                    "affiliations": "Assistant Professor, Institute for Quantum Science and Technology, University of Calgary",
+                    "email": "Verified email at ucalgary.ca",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sUKbEwsAAAAJ&citpid=4"
+                },
+                {
+                    "name": "Christoph Marquardt",
+                    "link": "https://scholar.google.com/citations?user=oqiVG40AAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=oqiVG40AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "oqiVG40AAAAJ",
+                    "affiliations": "Max Planck Institute for the Science of Light",
+                    "email": "Verified email at mpl.mpg.de",
+                    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+                },
+                {
+                    "name": "Dominique Elser",
+                    "link": "https://scholar.google.com/citations?user=OOMSeWIAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=OOMSeWIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "OOMSeWIAAAAJ",
+                    "affiliations": "MPL Erlangen",
+                    "email": "Verified email at mpl.mpg.de",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OOMSeWIAAAAJ&citpid=7"
+                },
+                {
+                    "name": "Mohammadasadegh Khazali",
+                    "link": "https://scholar.google.com/citations?user=o6nffysAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=o6nffysAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "o6nffysAAAAJ",
+                    "affiliations": "IQOQI",
+                    "email": "Verified email at uibk.ac.at",
+                    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o6nffysAAAAJ&citpid=11"
+                },
+                {
+                    "name": "Aazad Abbas",
+                    "link": "https://scholar.google.com/citations?user=ZKOYUbYAAAAJ&hl=en",
+                    "serpapi_link": "https://serpapi.com/search.json?author_id=ZKOYUbYAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate",
+                    "author_id": "ZKOYUbYAAAAJ",
+                    "affiliations": "Medical Student, University of Toronto",
+                    "email": "Verified email at mail.utoronto.ca",
+                    "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+                }
+            ],
+            "serpapi_pagination": {
+                "next": "https://serpapi.com/search.json?author_id=fBBMAKwAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=100"
+            }
+        }
+    },
     "Paul Hockett": {
         "ID": "e4FgTYMAAAAJ",
         "URL": "https://scholar.google.com/citations?user=e4FgTYMAAAAJ",
         "results": {
             "search_metadata": {
-                "id": "614cd609e0ded4cae8469734",
+                "id": "614e7fd724e88ebc92a180dc",
                 "status": "Success",
-                "json_endpoint": "https://serpapi.com/searches/09ea085bd1476b0e/614cd609e0ded4cae8469734.json",
-                "created_at": "2021-09-23 19:31:21 UTC",
-                "processed_at": "2021-09-23 19:31:21 UTC",
+                "json_endpoint": "https://serpapi.com/searches/09ea085bd1476b0e/614e7fd724e88ebc92a180dc.json",
+                "created_at": "2021-09-25 01:48:07 UTC",
+                "processed_at": "2021-09-25 01:48:07 UTC",
                 "google_scholar_author_url": "https://scholar.google.com/citations?user=e4FgTYMAAAAJ&hl=en&pagesize=100&sortby=pubdate",
-                "raw_html_file": "https://serpapi.com/searches/09ea085bd1476b0e/614cd609e0ded4cae8469734.html",
-                "total_time_taken": 0.97
+                "raw_html_file": "https://serpapi.com/searches/09ea085bd1476b0e/614e7fd724e88ebc92a180dc.html",
+                "total_time_taken": 1.0
             },
             "search_parameters": {
                 "engine": "google_scholar_author",
@@ -3312,13 +4242,13 @@
         "URL": "https://scholar.google.com/citations?user=Sx-Dx4cAAAAJ",
         "results": {
             "search_metadata": {
-                "id": "614cd60a3d6919e32dcebb57",
+                "id": "614e7fd879627c45c39fe9fa",
                 "status": "Success",
-                "json_endpoint": "https://serpapi.com/searches/69f25d92485c463d/614cd60a3d6919e32dcebb57.json",
-                "created_at": "2021-09-23 19:31:22 UTC",
-                "processed_at": "2021-09-23 19:31:22 UTC",
+                "json_endpoint": "https://serpapi.com/searches/69f25d92485c463d/614e7fd879627c45c39fe9fa.json",
+                "created_at": "2021-09-25 01:48:08 UTC",
+                "processed_at": "2021-09-25 01:48:08 UTC",
                 "google_scholar_author_url": "https://scholar.google.com/citations?user=Sx-Dx4cAAAAJ&hl=en&pagesize=100&sortby=pubdate",
-                "raw_html_file": "https://serpapi.com/searches/69f25d92485c463d/614cd60a3d6919e32dcebb57.html",
+                "raw_html_file": "https://serpapi.com/searches/69f25d92485c463d/614e7fd879627c45c39fe9fa.html",
                 "total_time_taken": 0.58
             },
             "search_parameters": {
