@@ -125,7 +125,11 @@ def genMasterList(authors):
 
     for k in authors.keys():
         if 'results' in authors[k].keys():
-            masterList = DictListUpdate(authors[k]['results']['articles'], masterList)
+            try:
+                masterList = DictListUpdate(authors[k]['results']['articles'], masterList)
+            # 09/02/22 - added to skip recent build errors https://github.com/UQOgroup/UQO-group-publications/issues/1#issuecomment-1020473495
+            except KeyError: 
+                print(f"*** No articles found for author: {k}, ID: {authors[k]['ID']}")
 
     # Set to Pandas DF and use this for lazy sorting/processing (although overkill!)
     masterDF = pd.DataFrame(masterList).sort_values('year', ascending=False)
