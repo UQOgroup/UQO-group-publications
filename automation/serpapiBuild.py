@@ -201,8 +201,25 @@ An alternative curated, and interactive, <a href="http://femtolab.ca/wordpress/?
 
     HTMLstr += "<h2>Publications</h2>"
 
+    # 19/01/24 - track current year in HTML output loop and set headers.
+    yearInd = 0
+    currYear = masterDF.iloc[0]['year'] # Start with first row in results
+    HTMLstr += f"<h3>{currYear} ({masterDF[masterDF.year == currYear].shape[0]})</h3>"
+
     # for item in masterList:   # For vanilla list this is NOT SORTED by year
     for index, item in masterDF.iterrows():
+        # 19/01/24 - track current year in HTML output loop and set headers.
+        if 'year' in item.keys():
+            if item['year'] != currYear:
+                currYear = item['year']
+                
+                if currYear:
+                    HTMLstr += f"<h3>{currYear} ({masterDF[masterDF.year == currYear].shape[0]})</h3>"
+                else:
+                    HTMLstr += f"<h3>Undated/missing info ({masterDF[masterDF.year == currYear].shape[0]})</h3>"
+                    
+                yearInd += 1
+            
     #     HTMLstr +=""
         HTMLstr += f"<span class='title'><a href={item['link']} <b>{item['title']}</b></a></span></br>"
 
