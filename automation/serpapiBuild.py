@@ -16,9 +16,9 @@ SerpAPI details:
 
 - [Guide](https://serpapi.com/google-scholar-author-api)
 - [Playground](https://serpapi.com/playground?engine=google_scholar_author)
-- [Pypi](https://pypi.org/project/google-search-results/)
+- [Pypi](https://pypi.org/project/google-search-results/) (note install via `pip install google-search-results`)
 
-
+19/01/24    Added year output to HTML, lines 204 - 220
 22/09/21    v1 testing
 
 """
