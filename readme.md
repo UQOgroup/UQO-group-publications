@@ -2,7 +2,7 @@
 
 Ultrafast Quantum Optics (UQO) group publications lists
 
-TLDR: for an [up-to-date version see the Google Scholar scrape here](https://uqogroup.github.io/UQO-group-publications/UQO_group_GScholar.html).
+TLDR: for an [up-to-date publications list see the Google Scholar scrape here](https://uqogroup.github.io/UQO-group-publications/UQO_group_GScholar.html).
 
 Two versions...
 
