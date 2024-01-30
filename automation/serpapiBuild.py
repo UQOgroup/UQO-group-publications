@@ -205,6 +205,7 @@ An alternative curated, and interactive, <a href="http://femtolab.ca/wordpress/?
     yearInd = 0
     currYear = masterDF.iloc[0]['year'] # Start with first row in results
     HTMLstr += f"<h3>{currYear} ({masterDF[masterDF.year == currYear].shape[0]})</h3>"
+    HTMLstr += "\n<ol>" # Start year list
 
     # for item in masterList:   # For vanilla list this is NOT SORTED by year
     for index, item in masterDF.iterrows():
@@ -212,21 +213,24 @@ An alternative curated, and interactive, <a href="http://femtolab.ca/wordpress/?
         if 'year' in item.keys():
             if item['year'] != currYear:
                 currYear = item['year']
+
+                HTMLstr += "</ol>\n"   # Close year list
                 
                 if currYear:
                     HTMLstr += f"<h3>{currYear} ({masterDF[masterDF.year == currYear].shape[0]})</h3>"
                 else:
                     HTMLstr += f"<h3>Undated/missing info ({masterDF[masterDF.year == currYear].shape[0]})</h3>"
-                    
+
+                HTMLstr += "\n<ol>" # Start year list
                 yearInd += 1
             
     #     HTMLstr +=""
-        HTMLstr += f"<span class='title'><a href={item['link']} <b>{item['title']}</b></a></span></br>"
+        HTMLstr += f"<li><span class='title'><a href={item['link']} <b>{item['title']}</b></a></span></br>"
 
         for k in ['authors','publication']:   #,'year']:
-            HTMLstr += f"<span class={item[k]}>{item[k]}</br>"
+            HTMLstr += f"<span class={k}>{item[k]}</span></br></li>"
 
-        HTMLstr += "</br>"
+        HTMLstr += "</br>\n"
 
     HTMLstr += "</body></html>"
 
