@@ -8,7 +8,7 @@ Two versions...
 
 ## (1) Ongoing group curated version
 
-The main `group_ongoing.bib` file is manually updated, and rendered via [BibBase](https://bibbase.org/) on [the group website](http://femtolab.ca/wordpress/?p=242).
+The main `group_ongoing.bib` file is manually updated, and rendered via [BibBase](https://bibbase.org/) on [the group website](http://femtolab.ca/wordpress/?p=242); see also [quantumtechnology.ca](http://quantumtechnology.ca/publications) for a current QT list.
 
 ### To view
 
