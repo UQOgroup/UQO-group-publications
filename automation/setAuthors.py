@@ -12,6 +12,7 @@ authorList = { 'Ben Sussman':{'ID':'IDU7HMMAAAAJ'},
             'Phil Bustard':{'ID':None},
             'Andrew Ridsdale':{'ID':'3RQEGVEAAAAJ'},
             'Khabat Heshami':{'ID':'fBBMAKwAAAAJ'},
+            'Frédéric Bouchard':{'ID':'SREZ2OcAAAAJ'},
           }
 
 # Dump to file - OK
